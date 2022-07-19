@@ -1,0 +1,16 @@
+[
+  {
+    "client_id": 
+    "249847281352-e2542dfe95sr78vp2pqngu5v9vhi90df.apps.googleusercontent.com"
+  },
+  { "client_secrete": 
+    "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" 
+  },
+  {
+    "access_token": "ya29.A0AVA9y1uQoNhXFU4Bd-836YdRsX2XytlMaPFV4g-hg6dkJjUkKvwqC7mBCFIERH2g6TR9W23GS8VYAqftLC2Tq4UteGdPBXf0Xhb0Pw7GRRR3U7gA2WEAZTW1AAtjHXoH5jn5KpMoPXF64mXLiI_m_wxVnukDYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4ZGI1bTF4bTRnSDV2VTFFUTAzRmplUQ0163", 
+    "scope": "https://mail.google.com/", 
+    "token_type": "Bearer", 
+    "expires_in": 3599, 
+    "refresh_token": "1//04qeer8V6FT0lCgYIARAAGAQSNwF-L9Ir8eMiyOuQRwFaxjuzg9Jtw1D4Pf5cmyJAVEmqzEeAOWZEruOOcYr3z7wlqZoi_gFrBec"
+  }
+]
