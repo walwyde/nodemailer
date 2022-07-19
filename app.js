@@ -39,10 +39,10 @@ const mailOptions = {
   from: process.env.MAIL_USERNAME, // Sender address
   to: process.env.MAIL_USERNAME, // List of recipients
   subject: 'Node Mailer', // Subject line
-  text: 'new nodemail'
-  // attachments: [
-  //    { filename: 'profile.png', path: './images/profile.png' }
-  // ]
+  text: 'new nodemail',
+  attachments: [
+     { filename: 'profile.png', path: './images/profile.png' }
+  ]
 };
 
 transporter.sendMail(mailOptions, function(err, data) {
